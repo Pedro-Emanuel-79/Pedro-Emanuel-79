@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">acyZ | Front-End Developer</h1>
+<h1 align="center">acyZ</h1>
 
 <p align="center">
 <img src="https://github.com/79Emanuel/79Emanuel/blob/main/T%C5%8Dshir%C5%8D%20Hitsugaya%20p.jpg" width="700" />
