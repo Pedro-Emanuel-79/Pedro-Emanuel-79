@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="center">emanuel 79</h1>
+## Hello World 👋
+<h1 align="center">Emanuel 79</h1>
 
 <p align="center">
 <img src="https://github.com/79Emanuel/79Emanuel/blob/main/T%C5%8Dshir%C5%8D%20Hitsugaya%20p.jpg" width="700" />
@@ -13,11 +13,9 @@
 
 ### 🧠 Sobre mim
 
-Sou estudante de Ciência da Computação (ADS) na Universidade de Mogi das Cruzes (UMC).  
-Prefiro aprender com consistência, buscando sempre entender o "porquê" antes do "como".
-
-Atualmente estou focado em **JavaScript** e **Java**, criando aplicações com atenção à organização, clareza e boas práticas.  
-Acredito que programar vai além de escrever código: é pensar com lógica, evitar complicações desnecessárias e encontrar soluções eficientes.
+Sou formado em Análise e Desenvolvimento de Sistemas (ADS), desenvolvedor com foco em backend, interessado em construir aplicações que resolvam problemas reais.
+Tenho experiência com JavaScript e Java, criando APIs e aplicações com atenção à organização, lógica e boas práticas.
+Atualmente busco minha primeira oportunidade na área de tecnologia, onde eu possa contribuir de forma prática e evoluir rapidamente como desenvolvedor.
 
 ---
 
@@ -26,7 +24,7 @@ Acredito que programar vai além de escrever código: é pensar com lógica, evi
 <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
