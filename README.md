@@ -1,13 +1,13 @@
 ## Hello World 👋
 <h1 align="center">Emanuel 79</h1>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/79Emanuel/79Emanuel/blob/main/SurfGit.jpg" width="700" />
 </p>
 
 <i><h3 align="center">
 > *"A maior parte dos fracassos reais se devem a limitações que os homens impõem a si mesmo!"*
-</h3></i>
+</h3></i> -->
 
 ---
 
